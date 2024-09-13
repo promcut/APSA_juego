@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - mandarina
+  - uva
+  - platano
+  - pera
+  - tortilla
+  - jamon
+  - huevo
+  - aceite
+  - naranja
+  - paella
+  - tapa
+  - queso
+  - churros
+  - music
+  - combi1
+  - combi2
+  - combi3
+  - combi4
+  - combi5
+  - combi6
+  - combi7
+  - combi8
+  - combi9
+  - sonido_corto
+  - sonido_largo
+  - collider
+  - flechita_arriba
+  - flechita_abajo
+  - flechita_izq
+  - flechita_der
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Fondo
+    uniqueID: 1363262977
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
